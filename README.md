@@ -57,7 +57,7 @@ The following components are implemented and evaluated:
 - Alternative regression approaches (e.g., isotonic regression) improve the qualitative structure of the exercise boundary but do **not materially improve pricing accuracy**.
 - For American calls under Black–Scholes assumptions, LSM recovers prices consistent with analytic results, while still exhibiting regression artifacts in the simulated exercise boundary.
 
-The `report/` directory contains a [PDF report](/Users/joe/Desktop/LSM/report/LSM_report.pdf) with full derivations, figures, and discussion of results.
+The `report/` directory contains a [PDF report](report/LSM_report.pdf) with full derivations, figures, and discussion of results.
 
 ---
 
